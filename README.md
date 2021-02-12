@@ -6,3 +6,7 @@ Code used to produce figures in manuscript "Delay-Induced Uncertainty in a Parad
 #EUltradian1.m contains code that produces the figures seen Figure 3 of the manuscript.
 
 #EUltradianLya.m contains code that produces the figures seen in Figures 4--6 of the manuscript.
+
+
+
+#EUltradianLya2.m contains code that produces the figures seen in Figure 7 of the manuscript.

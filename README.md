@@ -3,7 +3,7 @@ Code used to produce figures in manuscripts "Delay-Induced Uncertainty in a Para
 
 #Ultradian.m contains code encoding the full Ultradian glucose-insulin model.  It must be called using ode23 in other MATLAB scripts.
 
-#EUltradian1.m contains code that produces the figures seen Figure 3 of the Chaos manuscript.
+#EUltradian1.m contains code that produces the figures seen Figure 3 of the Chaos manuscript and Figures 3 and 4 of the submitted manuscript.
 
 #EUltradianLya.m contains code that produces the figures seen in Figures 4--6 of the Chaos manuscript.
 

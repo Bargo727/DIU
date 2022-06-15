@@ -12,3 +12,5 @@ Code used to produce figures in manuscripts "Delay-Induced Uncertainty in a Para
 #EUltradianLya2.m contains code that produces the figures seen in Figure 8 of the Chaos manuscript.
 
 #EUltradianLya3.m contains code that produces the figures seen in Figure 2 of the submitted manuscript.  Note:  to obtain the Lyapounoff exponents as a function of different paramters, you will have to alter the code to loop through the parameter of your interest.
+
+#EUltradian3.m contains code that produces the figures seen in Figure 5 of the submitted manuscript.
